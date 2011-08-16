@@ -1,0 +1,5 @@
+These scripts have been adopted from the scripts created by griddynamics for el6.
+
+http://yum.griddynamics.net/yum/diablo-3/openstack/
+
+The primary change is the removal of start-stop-daemon which is not shipped with el5.
